@@ -1,10 +1,11 @@
 ## Hi there, I'm Kenza! 👋
 
-<img src="https://github.com/your-username.png" width="150" height="150" align="right" />
+<img src="(https://github.com/user-attachments/assets/6e16e108-4b0c-4f84-b1d6-2e807feb42e8)" width="150" height="150" align="left" />
 
 I'm a passionate software engineer, AI enthusiast, and full-stack developer. I love working on cutting-edge technologies and exploring AI, DevOps, and cloud computing.
 
-### Technologies & Tools
+### Technologies & Tools!
+
 
 #### **Programming Languages**
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
