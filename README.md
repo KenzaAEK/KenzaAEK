@@ -1,6 +1,6 @@
 ## Hi there, I'm Kenza! 👋
 
-I'm a passionate software engineer, AI enthusiast, and full-stack developer. I love working on cutting-edge technologies and exploring AI, DevOps, and cloud computing.
+I'm a passionate software engineering student, AI enthusiast, and full-stack developer. I love working on cutting-edge technologies and exploring AI, DevOps, and cloud computing. With a solid foundation in software engineering and a passion for problem-solving, I excel at turning challenges into opportunities forinnovation. My goal is to design intelligent, sustainable digital solutions that balance performance, creativity, and automation.
 
 ### -> Technologies & Tools!
 
