@@ -1,11 +1,8 @@
 ## Hi there, I'm Kenza! 👋
 
-<img src="(https://github.com/user-attachments/assets/6e16e108-4b0c-4f84-b1d6-2e807feb42e8)" width="150" height="150" align="left" />
-
 I'm a passionate software engineer, AI enthusiast, and full-stack developer. I love working on cutting-edge technologies and exploring AI, DevOps, and cloud computing.
 
-### Technologies & Tools!
-
+### -> Technologies & Tools!
 
 #### **Programming Languages**
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -47,5 +44,5 @@ I'm a passionate software engineer, AI enthusiast, and full-stack developer. I l
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Contact Me
+### -> Contact Me
 📫 **[LinkedIn](https://www.linkedin.com/in/kenza-abou-el-kasem/)**  |  💻 **[Portfolio](https://kenza-abou-el-kasem.netlify.app/)**  |  ✉️ **kabouelkasem1@gmail.com**
