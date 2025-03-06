@@ -47,4 +47,4 @@ I'm a passionate software engineer, AI enthusiast, and full-stack developer. I l
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 #### **Contact Me**
-📫 **[LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/kenza-abou-el-kasem/))**  |  💻 **[Portfolio]([https://yourportfolio.com/](https://kenza-abou-el-kasem.netlify.app/))**  |  ✉️ **kabouelkasem1@gmail.com**
+📫 **[LinkedIn](https://www.linkedin.com/in/kenza-abou-el-kasem/)**  |  💻 **[Portfolio](https://kenza-abou-el-kasem.netlify.app/)**  |  ✉️ **kabouelkasem1@gmail.com**
