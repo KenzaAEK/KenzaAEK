@@ -1,50 +1,67 @@
-## Hi there, I'm Kenza! 
+# 🤖 Kenza | Agentic Systems & Data Architect
 
-I'm a passionate software engineering student, AI enthusiast, and full-stack developer. I love working on cutting-edge technologies and exploring AI, DevOps, and cloud computing. With a solid foundation in software engineering and a passion for problem-solving, I excel at turning challenges into opportunities for innovation. My goal is to design intelligent, sustainable digital solutions that balance performance, creativity, and automation.
+> **Engineering the lifecycle of autonomous intelligence.** > I build the data foundations (Engineering), the analytical brains (Science), and the autonomous actors (Agentic AI) that drive modern innovation.
 
-### Technologies & Tools!
+---
 
-  #### **Machine Learning & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+### 🌐 The "Data-to-Agent" Pipeline
+I view technology as a vertical stack where every layer feeds the next. My work focuses on making this transition seamless:
 
-  #### **DevOps & Tools**
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+* **Layer 1: Data Engineering** 🏗️  
+    Building the "sensory system." I design robust pipelines that ingest, clean, and govern the high-quality data required for reliable AI.
+* **Layer 2: Data Science & AI** 🧠  
+    Developing the "cognitive engine." I translate raw data into predictive insights and fine-tuned models that understand complex patterns.
+* **Layer 3: Agentic AI** 🚀  
+    Deploying the "autonomous actor." I build multi-agent systems that don't just answer questions—they reason, use tools, and execute multi-step workflows.
 
-  #### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
-  #### **Programming Languages**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 🛠️ Technical Arsenal
 
-  #### **Frontend**
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+#### **🏗️ Data Engineering (The Foundation)**
+*Automated pipelines and scalable storage.*
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-  #### **Backend & Frameworks**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST-APIs-%23007ACC.svg?style=for-the-badge)
+#### **🧠 AI & Data Science (The Brain)**
+*Statistical modeling and deep learning.*
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+#### **🤖 Agentic AI & Orchestration (The Action)**
+*Building autonomous, tool-using agents.*
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-27272E?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
+---
 
-### -> Contact Me
-📫 **[LinkedIn](https://www.linkedin.com/in/kenza-abou-el-kasem/)**  |  💻 **[Portfolio](https://kenza-abou-el-kasem.netlify.app/)**  |  ✉️ **kabouelkasem1@gmail.com**
+### 🚀 Recent Focus: "Self-Healing Pipelines"
+I am currently experimenting with **Agentic Data Engineering**, where AI agents monitor data quality in real-time and autonomously suggest (or apply) fixes to schema drifts and pipeline failures.
+
+---
+
+### 📈 GitHub Analytics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Kenza's Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Langs" height="180" />
+</p>
+
+---
+
+### 📫 Let's Collaborate
+I’m looking to connect with teams building **autonomous agents**, **decentralized data meshes**, or **real-time AI infrastructure**.
+
+* **LinkedIn:** [kenza-abou-el-kasem](https://www.linkedin.com/in/kenza-abou-el-kasem/)
+* **Portfolio:** [kenza-abou-el-kasem.netlify.app](https://kenza-abou-el-kasem.netlify.app/)
+* **Email:** kenzaabouelkasem@gmail.com
+
+---
+<p align="center">
+  <i>"Data is the fuel, but Agents are the engine."</i>
+</p>
